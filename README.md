@@ -16,7 +16,7 @@ Key resources:
 - **SQL Query Library**: Explore the queries used for data cleaning and business analysis [here](https://github.com/lakshaykamat/walmart-insights/blob/master/queries/Query.md).  
 - **Interactive Tableau Dashboard**: View and explore sales trends in detail [here](#).  
 
----  
+---
 
 ## **Data Overview**  
 
@@ -26,7 +26,7 @@ Before diving into the analysis, rigorous quality checks were performed to ensur
 
 ![Database Schema](assets/DB.svg)  
 
----  
+---
 
 ## **Executive Summary**  
 
@@ -65,9 +65,13 @@ These insights highlight key areas to optimize inventory management, focus regio
   - In the **East**, the Canon Printer contributes 4.4% of revenue (₹30.1K).  
   - In the **South**, CISCO EX90 leads with 5.7% of sales (₹22.6K).  
 
+
 ![Top 5 Products](assets/top_5_products.png)  
+> *Canon Printer have the highest sales.*
 
 ![Top Products by Region](assets/top_5_products_by_region_colored.png)  
+
+> *Canon Printer leads in east and CISCO EX90 leads in South*
 
 ---
 
@@ -82,12 +86,18 @@ These insights highlight key areas to optimize inventory management, focus regio
   - **Consumer Segment** leads with **55%**, followed by **Corporate Segment** at **31%**.  
 
 ![West Region Segments](assets/west_segment.png)  
+> *Consumer segment dominates in west*
+
 ![West Region Sales & Profits](assets/west_sales_profit.png)  
 
+> *West and East region have the highest profits.*
+---
+
 ### Shipping and Operational Effiency
-- Monday and Friday drive weekly sales, each capturing 19% (₹428.9K and ₹427.7K), while Wednesday lags at 4% (₹88.1K). The West leads Friday sales with 33% (₹140.9K), followed by the East at 31% (₹132.3K), showing strong regional patterns.
-- Shipping delays average 3.4 days, peaking at 7 days. With 38% of weekly sales on Mondays and Fridays, optimizing operations on these peak days is crucial to improving delivery efficiency and customer satisfaction.
+- Wednesday, Friday and Saturday drive weekly sales, each capturing 48% (₹377.1K, ₹365.8K and 359.6K), while Monday lags at 10% (232.8K). The West leads Friday sales with 33% (₹140.9K), followed by the East at 31% (₹132.3K), showing strong regional patterns.
+- Shipping delays average 3.4 days, peaking at 7 days. With 38% of weekly sales on Wednesday and Fridays, optimizing operations on these peak days is crucial to improving delivery efficiency and customer satisfaction.
 ![alt text](assets/orders.png)
+> *Wednesday and friday*
 ![alt text](assets/orders2.png)
 ## **Recommendations**  
 
