@@ -47,10 +47,10 @@ These insights highlight key areas to optimize inventory management, focus regio
 - **Segment Performance**: Consumer and Corporate segments dominate across regions, with the **Consumer segment leading in sales contribution**.  
 
 ![Sales by Price Range](assets/chart1.png)  
-*35% of total sales are from the ₹0-₹500 price range.*  
+> *35% of total sales are from the ₹0-₹500 price range.*  
 
 ![Monthly Sales Trends](assets/chart.png)  
-*Peak sales occur in December, November, and September.*  
+> *Peak sales occur in December, November, and September.*  
 
 ---
 
