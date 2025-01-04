@@ -31,11 +31,9 @@ Before diving into the analysis, rigorous quality checks were performed to ensur
 
 ### **Key Takeaways**  
 
-1. **Dominant Price Range**: Products priced between **₹0-₹500** are the top-performing category, contributing **35% of total sales** and **34% of total profits**.  
-2. **Regional Insights**: The **West region** leads with 33% of total sales, driven by strong Consumer demand, followed by the **East region** at 28%.  
-3. **Seasonal Peaks**: Sales consistently peak in **December, November, and September**, presenting strategic opportunities for seasonal campaigns.  
-
-These insights highlight key areas to optimize inventory management, focus regional strategies, and capitalize on high-demand periods.  
+1. **Dominant Price Range:** Products priced between **₹0-₹500** are the top-performing category, contributing **35% of total sales** and **34% of total profits**.
+2. **Regional Insights:** The **West region** leads with 33% of total sales, driven by strong Consumer demand, followed by the **East region** at 28%.
+3. **Seasonal Peaks:** Sales consistently peak in **December, November, and September**, presenting strategic opportunities for seasonal campaigns.
 
 
 ## **Insights Deep Dive**  
