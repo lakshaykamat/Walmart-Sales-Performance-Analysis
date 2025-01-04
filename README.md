@@ -1,7 +1,6 @@
 # Walmart India Data Insights  
-
-## **Project Background**  
-
+## **Project Background** 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/1200px-Walmart_logo.svg.png)
 Walmart, established in 1962, is a global retail leader specializing in groceries and general merchandise. Operating through physical stores, a robust e-commerce platform, and mobile applications, Walmart has built an extensive presence worldwide.  
 
 This project aims to leverage Walmart’s vast troves of data—spanning sales, shipping operations, product inventory, and customer behavior—to generate actionable insights. These findings are designed to drive business efficiency, optimize inventory, and improve profitability.  
@@ -101,6 +100,8 @@ These insights highlight key areas to optimize inventory management, focus regio
 
 ![alt text](assets/orders2.png)
 > *West and East region leads in Friday and Monday sales.*
+
+
 ## **Recommendations**  
 
 1. **Expand Focus on ₹0-₹500 Price Range**:  
@@ -117,3 +118,12 @@ These insights highlight key areas to optimize inventory management, focus regio
 
 4. **Seasonal Campaigns**:  
    - Develop targeted campaigns for **December, November, and September** to maximize returns during peak periods.  
+
+## Access to Resources
+- **SQL Queries:** [Data Inspection and Cleaning Queries](https://github.com/lakshaykamat/walmart-insights/blob/master/queries/Query.md)
+
+- **Business-Specific Queries:** [Targeted SQL Queries](https://github.com/lakshaykamat/walmart-insights/blob/master/queries/Query.md#basic-business-analysis)
+
+- **Tableau Dashboard:** Sales Trends Visualization
+
+
