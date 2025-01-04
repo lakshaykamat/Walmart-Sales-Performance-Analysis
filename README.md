@@ -42,7 +42,7 @@ Before diving into the analysis, rigorous quality checks were performed to ensur
 
 - **Top-Performing Price Range**: Products in the **₹0-₹500** range generate **35% of total sales** and **34% of profits**, making it the most lucrative category. Prioritizing inventory and marketing in this range is essential to sustain performance.  
 - **Seasonal Patterns**: Sales are highest in **December, November, and September**, with the **West region** leading in revenue (33%), followed by the **East (28%)**.  
-- **Segment Performance**: Consumer and Corporate segments dominate across regions, with the **Consumer segment leading in sales contribution**.  
+- **Segment Performance**: Consumer and Corporate segments dominate across regions, with the **Consumer segment leading in sales contribution**.
 
 ![Sales by Price Range](assets/chart1.png)  
 > *35% of total sales are from the ₹0-₹500 price range.*  
