@@ -13,7 +13,7 @@ The analysis focuses on four key areas:
 - **Shipping and Operational Efficiency**  
 
 Key resources:  
-- **SQL Query Library**: Explore the queries used for data cleaning and business analysis [here](#).  
+- **SQL Query Library**: Explore the queries used for data cleaning and business analysis [here](https://github.com/lakshaykamat/walmart-insights/blob/master/queries/Query.md).  
 - **Interactive Tableau Dashboard**: View and explore sales trends in detail [here](#).  
 
 ---  
@@ -22,7 +22,7 @@ Key resources:
 
 The dataset consists of four key tables: **Orders**, **Products**, **Sales**, and **Customers**, with a total of 9,995 records.  
 
-Before diving into the analysis, rigorous quality checks were performed to ensure data accuracy and reliability. These checks covered missing values, data types, and outliers. The SQL queries for these inspections can be accessed [here](#).  
+Before diving into the analysis, rigorous quality checks were performed to ensure data accuracy and reliability. These checks covered missing values, data types, and outliers. The SQL queries for these inspections can be accessed [here](https://github.com/lakshaykamat/walmart-insights/blob/master/queries/Query.md).  
 
 ![Database Schema](assets/DB.svg)  
 
