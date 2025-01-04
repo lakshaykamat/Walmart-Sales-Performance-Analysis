@@ -71,7 +71,7 @@ These insights highlight key areas to optimize inventory management, focus regio
 
 ![Top Products by Region](assets/top_5_products_by_region_colored.png)  
 
-> *Canon Printer leads in east and CISCO EX90 leads in South*
+> *Canon Printer leads in east and CISCO EX90 leads in South.*
 
 ---
 
@@ -86,7 +86,7 @@ These insights highlight key areas to optimize inventory management, focus regio
   - **Consumer Segment** leads with **55%**, followed by **Corporate Segment** at **31%**.  
 
 ![West Region Segments](assets/west_segment.png)  
-> *Consumer segment dominates in west*
+> *Consumer segment dominates in west.*
 
 ![West Region Sales & Profits](assets/west_sales_profit.png)  
 
@@ -97,8 +97,10 @@ These insights highlight key areas to optimize inventory management, focus regio
 - Wednesday, Friday and Saturday drive weekly sales, each capturing 48% (₹377.1K, ₹365.8K and 359.6K), while Monday lags at 10% (232.8K). The West leads Friday sales with 33% (₹140.9K), followed by the East at 31% (₹132.3K), showing strong regional patterns.
 - Shipping delays average 3.4 days, peaking at 7 days. With 38% of weekly sales on Wednesday and Fridays, optimizing operations on these peak days is crucial to improving delivery efficiency and customer satisfaction.
 ![alt text](assets/orders.png)
-> *Wednesday and friday*
+> *Wednesday, Friday and Saturday have the highest sale.*
+
 ![alt text](assets/orders2.png)
+> *West and East region leads in Friday and Monday sales.*
 ## **Recommendations**  
 
 1. **Expand Focus on ₹0-₹500 Price Range**:  
