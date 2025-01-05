@@ -11,10 +11,15 @@ The analysis focuses on four key areas:
 - **Regional Comparisons**  
 - **Shipping and Operational Efficiency**  
 
-Key resources:  
-- **SQL Query Library**: Explore the queries used for data cleaning and business analysis [here](https://github.com/lakshaykamat/walmart-insights/blob/master/queries/Query.md).  
-- **Interactive Tableau Dashboard**: View and explore sales trends in detail [here](#).  
+## Access to Resources
+- **SQL Queries:** [Data Inspection and Cleaning Queries](https://github.com/lakshaykamat/walmart-insights/blob/master/queries/Query.md)
 
+- **Business-Specific Queries:** [Targeted SQL Queries](https://github.com/lakshaykamat/walmart-insights/blob/master/queries/Query.md#basic-business-analysis)
+
+- **Tableau Dashboard:** [Sales Trends Visualization](https://public.tableau.com/app/profile/lakshay.kamat/viz/WalmartSalesDashboard_17360784456650/Dashboard1)
+ 
+
+![Tableau Dashboard](assets/dashboard.png)
 ---
 
 ## **Data Overview**  
@@ -122,6 +127,6 @@ Before diving into the analysis, rigorous quality checks were performed to ensur
 
 - **Business-Specific Queries:** [Targeted SQL Queries](https://github.com/lakshaykamat/walmart-insights/blob/master/queries/Query.md#basic-business-analysis)
 
-- **Tableau Dashboard:** Sales Trends Visualization
+- **Tableau Dashboard:** [Sales Trends Visualization](https://public.tableau.com/app/profile/lakshay.kamat/viz/WalmartSalesDashboard_17360784456650/Dashboard1)
 
 
