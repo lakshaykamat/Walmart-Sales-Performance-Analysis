@@ -1,4 +1,4 @@
-# Walmart India Data Insights  
+# Walmart Sales Performance Analysis  
 ## **Project Background** 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/1200px-Walmart_logo.svg.png)
 Walmart, established in 1962, is a global retail leader specializing in groceries and general merchandise. Operating through physical stores, a robust e-commerce platform, and mobile applications, Walmart has built an extensive presence worldwide.  
