@@ -11,7 +11,7 @@
 2. [Executive Summary​](#executive-summary) 
 3. [Key Metrics at a Glance​](#key-metrics-at-a-glance) 
 4. [Data Overview​](#data-overview)
-5. [Tableau Interactive Dashboard]​(#tableau-interactive-dashboard-screenshots)
+5. [Tableau Interactive Dashboard](https://github.com/lakshaykamat/Walmart-Sales-Performance-Analysis/blob/master/README.md#tableau-interactive-dashboard-screenshots)
 6. [Insights Deep Dive​](#insights-deep-dive)
 7. [Recommendations​](#recommendation)
 8. [Conclusion​](#conclusions)
