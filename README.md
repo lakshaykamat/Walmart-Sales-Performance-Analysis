@@ -11,7 +11,7 @@
 2. [Executive Summary​](#executive-summary) 
 3. [Key Metrics at a Glance​](#key-metrics-at-a-glance) 
 4. [Data Overview​](#data-overview)
-5. [Tableau Interactive Dashboard]​(#Tableau-Interactive-Dashboard-Screenshots)
+5. [Tableau Interactive Dashboard]​(#tableau-interactive-dashboard-screenshots)
 6. [Insights Deep Dive​](#insights-deep-dive)
 7. [Recommendations​](#recommendation)
 8. [Conclusion​](#conclusions)
